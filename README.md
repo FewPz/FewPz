@@ -5,10 +5,17 @@
   <tr>
     <td>High school</td>
     <td>Mahavajiravudh</td>
+    <td>Default</td>
   </tr>
   <tr>
     <td>Senior high school</td>
-    <td>Mahavajiravudh <b>(Korea-Japanese)</b></td>
+    <td>Mahavajiravudh</td>
+    <td>Korean - Japan</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>King Mongkut's Institute of Technology Ladkrabang (KMITL)</td>
+    <td>Information Technology <b>(IT20)<b></td>
   </tr>
 <table>  
 
