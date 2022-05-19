@@ -1,7 +1,13 @@
 ## Hello I'm Few Peeranat
+You can call me Few or P. if you want to.
 
 #### Education  
 <table>
+  <tr>
+    <td>Level</td>
+    <td>School / College</td>
+    <td>Mayor</td>
+  </tr>
   <tr>
     <td>High school</td>
     <td>Mahavajiravudh</td>
