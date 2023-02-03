@@ -4,7 +4,7 @@
 </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EntityKunG&theme=algolia" alt="EntityKunG" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FewPz&theme=algolia" alt="FewPz" /></p>
 <br>
 
 ## 🏫 Education  
